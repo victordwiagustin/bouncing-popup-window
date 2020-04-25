@@ -34,7 +34,6 @@ function openWin() {
             right = true;
         }
 
-        // console.log('X: ' + xCor + ', Y: ' + yCor);
         console.log(xPos);
 
         myWindow.resizeTo(myWindowWidth, myWindowHeight);
